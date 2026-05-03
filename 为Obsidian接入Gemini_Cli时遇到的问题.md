@@ -97,3 +97,4 @@ $env:NODE_OPTIONS="--dns-result-order=ipv4first"
 - **大小写敏感性**：Node.js 对 `HTTP_PROXY` 和 `http_proxy` 的识别在不同版本下有差异，建议在系统变量中**同时设置**。
 
 [github克隆问题](github克隆问题.md)其他网络配置有关问题
+**预留问题：pandoc将md转化为pdf格式有问题**
