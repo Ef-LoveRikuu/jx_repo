@@ -1,5 +1,5 @@
 {
-  "userId": "ae44d85c-af6e-47b6-8bd4-dbda9bc1a747",
+  "userId": "07de30f4-54dc-4381-9931-cf0a2aaa97a7",
   "isPlusUser": false,
   "plusLicenseKey": "",
   "openAIApiKey": "",
@@ -102,8 +102,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -132,8 +132,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -142,8 +142,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -229,8 +229,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -239,8 +239,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -249,8 +249,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ]
     },
     {
@@ -294,6 +294,20 @@
       "capabilities": [
         "reasoning"
       ]
+    },
+    {
+      "name": "deepseek-v4-pro",
+      "provider": "openrouterai",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "https://api.deepseek.com",
+      "apiKey": "sk-030a1139d74c4304b9fcc14a567ba323",
+      "isEmbeddingModel": false,
+      "capabilities": [
+        "reasoning"
+      ],
+      "stream": true,
+      "displayName": "deepseek-v4-pro"
     }
   ],
   "activeEmbeddingModels": [
@@ -429,7 +443,7 @@
   "perplexityApiKey": "",
   "supadataApiKey": "",
   "enableLexicalBoosts": true,
-  "suggestedDefaultCommands": false,
+  "suggestedDefaultCommands": true,
   "autonomousAgentMaxIterations": 4,
   "autonomousAgentEnabledToolIds": [
     "localSearch",
