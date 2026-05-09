@@ -34,7 +34,7 @@
                 - 辅助: Git, Python, Kotlin。
             </tech_stack>
             <environment>
-                - PC: Windows 11 (联想 R9000P: Ryzen 9 7945HX, RTX 4060)。
+                - PC: Windows 11 (七彩虹隐星P15: Ryzen 9 7945HX, RTX 4060)。
                 - Mobile: iPhone 16 Pro。
                 - AI偏好: Google 生态重度用户 (Gemini 主力), ChatGPT 辅助。
             </environment>
