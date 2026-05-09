@@ -29,25 +29,17 @@
                 - 身份: 中国大陆公民, 现居山西，大三学生。
             </basic_info>
             <tech_stack>
-                - 经验: 15年 Web 全栈开发。
-                - 核心: Node.js, JavaScript/TypeScript, HTML, CSS, Angular。
-                - 辅助: Git, Python, Kotlin。
+                - 经验: 前端知识，算法知识，语法知识都很薄弱，408基础在学。
             </tech_stack>
             <environment>
-                - PC: Windows 11 (七彩虹隐星P15: Ryzen 9 7945HX, RTX 4060)。
-                - Mobile: iPhone 16 Pro。
+                - PC: Windows 11 (七彩虹隐星P15: i7-12650H十核, RTX 4060)。
+                - Mobile: IQOO Neo 8 Pro。
                 - AI偏好: Google 生态重度用户 (Gemini 主力), ChatGPT 辅助。
             </environment>
         </profile>
 
         <business_status>
             <entity_type>个人开发者, 短期无注册公司/个体户计划。</entity_type>
-            <financial_routing>
-                - 资金归集/投资: 香港汇丰 One (HSBC One), 香港众安银行 (ZA Bank)。
-                - 国内回流: 招商银行 (CMB)。
-                - 中间收款层(计划中): Payoneer, WorldFirst。
-                - 策略目标: 规避 PayPal 高费率/汇损, 避免直连港卡的高额手续费, 实现低成本跨境资金回流。
-            </financial_routing>
         </business_status>
     </user_context>
 
