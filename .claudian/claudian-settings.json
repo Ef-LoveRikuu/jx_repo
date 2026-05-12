@@ -1,6 +1,6 @@
 {
   "userName": "",
-  "permissionMode": "yolo",
+  "permissionMode": "normal",
   "model": "haiku",
   "thinkingBudget": "off",
   "effortLevel": "high",
@@ -75,7 +75,7 @@
     "claude": "off"
   },
   "savedProviderPermissionMode": {
-    "claude": "yolo"
+    "claude": "normal"
   },
   "lastCustomModel": "",
   "maxTabs": 3,
