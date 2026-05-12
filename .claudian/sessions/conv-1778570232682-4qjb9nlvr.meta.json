@@ -1,11 +1,11 @@
 {
   "id": "conv-1778570232682-4qjb9nlvr",
   "providerId": "claude",
-  "title": "现在使用的是什么模型",
+  "title": "现在是什么模型",
   "titleGenerationStatus": "failed",
   "createdAt": 1778570232687,
-  "updatedAt": 1778570232751,
-  "lastResponseAt": 1778570232751,
+  "updatedAt": 1778570822260,
+  "lastResponseAt": 1778570822260,
   "sessionId": null,
   "providerState": {}
 }

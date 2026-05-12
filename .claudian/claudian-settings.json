@@ -24,7 +24,9 @@
     "claude": {
       "safeMode": "acceptEdits",
       "cliPath": "",
-      "cliPathsByHost": {},
+      "cliPathsByHost": {
+        "Rikka": "C:\\nvm4w\\nodejs\\claude.ps1"
+      },
       "loadUserSettings": true,
       "enableChrome": false,
       "enableBangBash": false,
@@ -44,9 +46,9 @@
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "",
-      "installationMethod": "native-windows",
-      "installationMethodsByHost": {},
-      "wslDistroOverride": "",
+      "installationMethodsByHost": {
+        "Rikka": "native-windows"
+      },
       "wslDistroOverridesByHost": {}
     },
     "opencode": {
