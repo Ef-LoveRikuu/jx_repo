@@ -4,8 +4,20 @@
   "title": "现在是什么模型",
   "titleGenerationStatus": "failed",
   "createdAt": 1778570232687,
-  "updatedAt": 1778570822260,
-  "lastResponseAt": 1778570822260,
-  "sessionId": null,
-  "providerState": {}
+  "updatedAt": 1778571426798,
+  "lastResponseAt": 1778571426798,
+  "sessionId": "18997573-b3dd-4040-9576-b5a3b67f03d2",
+  "providerState": {
+    "providerSessionId": "18997573-b3dd-4040-9576-b5a3b67f03d2"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 786,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31616,
+    "contextWindow": 200000,
+    "contextTokens": 32402,
+    "percentage": 16,
+    "contextWindowIsAuthoritative": true
+  }
 }

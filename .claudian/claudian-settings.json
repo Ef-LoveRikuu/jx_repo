@@ -25,7 +25,7 @@
       "safeMode": "acceptEdits",
       "cliPath": "",
       "cliPathsByHost": {
-        "Rikka": "C:\\nvm4w\\nodejs\\claude.ps1"
+        "Rikka": "C:\\nvm4w\\nodejs\\node_modules\\@anthropic-ai\\claude-code\\cli-wrapper.cjs"
       },
       "loadUserSettings": true,
       "enableChrome": false,
