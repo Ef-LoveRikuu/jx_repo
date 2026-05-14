@@ -1,0 +1,24 @@
+{
+  "id": "conv-1778752006065-80ebaujsi",
+  "providerId": "claude",
+  "title": "Check current AI model",
+  "titleGenerationStatus": "success",
+  "createdAt": 1778752006066,
+  "updatedAt": 1778752038468,
+  "lastResponseAt": 1778752038468,
+  "sessionId": "878a3f40-caaf-43e9-830b-cbb66f9b54fe",
+  "providerState": {
+    "providerSessionId": "878a3f40-caaf-43e9-830b-cbb66f9b54fe"
+  },
+  "currentNote": "408/2.计算机组成原理笔记.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 154,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19840,
+    "contextWindow": 200000,
+    "contextTokens": 19994,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}
