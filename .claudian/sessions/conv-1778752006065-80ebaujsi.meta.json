@@ -4,8 +4,8 @@
   "title": "Check current AI model",
   "titleGenerationStatus": "success",
   "createdAt": 1778752006066,
-  "updatedAt": 1778766885870,
-  "lastResponseAt": 1778766885870,
+  "updatedAt": 1778767136776,
+  "lastResponseAt": 1778767136776,
   "sessionId": "878a3f40-caaf-43e9-830b-cbb66f9b54fe",
   "providerState": {
     "providerSessionId": "878a3f40-caaf-43e9-830b-cbb66f9b54fe"
@@ -13,12 +13,12 @@
   "currentNote": "408/2.计算机组成原理笔记.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 351,
+    "inputTokens": 948,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 44032,
+    "cacheReadInputTokens": 51840,
     "contextWindow": 200000,
-    "contextTokens": 44383,
-    "percentage": 22,
+    "contextTokens": 52788,
+    "percentage": 26,
     "contextWindowIsAuthoritative": true
   }
 }
