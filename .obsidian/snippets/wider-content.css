@@ -1,5 +1,0 @@
-.markdown-source-view.is-readable-line-width .cm-line,
-.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
-    max-width: 900px;
-    /* 默认是 700px，调成你喜欢的值 */
-}
