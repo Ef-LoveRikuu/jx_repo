@@ -2,5 +2,6 @@
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
   "math": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "showIndentGuide": true
 }
