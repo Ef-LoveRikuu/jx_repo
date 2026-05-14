@@ -30,3 +30,4 @@ git config --global --unset https.proxy
 
 **总结一下：** 开了梯子只是给**浏览器**修好了路，但没有给**Git** 指路。后来执行的那两行 `git config` 命令，就是专门给 Git 指路的“导航仪”。
 [为Obsidian接入Gemini_CLI时遇到的问题](为Obsidian接入Gemini_CLI时遇到的问题.md)关于网络配置方面的其他问题
+[PC与平板Obsidian插件同步问题](PC与平板Obsidian插件同步问题.md)关于多设备插件管理的相关问题
