@@ -4,20 +4,20 @@
   "title": "Check current AI model",
   "titleGenerationStatus": "success",
   "createdAt": 1778752006066,
-  "updatedAt": 1778855910329,
-  "lastResponseAt": 1778855910329,
+  "updatedAt": 1778856212602,
+  "lastResponseAt": 1778856212602,
   "sessionId": "878a3f40-caaf-43e9-830b-cbb66f9b54fe",
   "providerState": {
     "providerSessionId": "878a3f40-caaf-43e9-830b-cbb66f9b54fe"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 279,
+    "inputTokens": 229,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 116096,
+    "cacheReadInputTokens": 124032,
     "contextWindow": 200000,
-    "contextTokens": 116375,
-    "percentage": 58,
+    "contextTokens": 124261,
+    "percentage": 62,
     "contextWindowIsAuthoritative": true
   }
 }
