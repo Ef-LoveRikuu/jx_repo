@@ -4,20 +4,20 @@
   "title": "Switch Obsidian sync from git to Remotely Save",
   "titleGenerationStatus": "success",
   "createdAt": 1778937195925,
-  "updatedAt": 1778943579664,
-  "lastResponseAt": 1778943579664,
+  "updatedAt": 1778945637727,
+  "lastResponseAt": 1778945637727,
   "sessionId": "adb13c4c-0fc3-4151-80d1-3275873c117f",
   "providerState": {
     "providerSessionId": "adb13c4c-0fc3-4151-80d1-3275873c117f"
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 147,
+    "inputTokens": 158,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 112768,
+    "cacheReadInputTokens": 143872,
     "contextWindow": 200000,
-    "contextTokens": 112915,
-    "percentage": 56,
+    "contextTokens": 144030,
+    "percentage": 72,
     "contextWindowIsAuthoritative": true
   }
 }
